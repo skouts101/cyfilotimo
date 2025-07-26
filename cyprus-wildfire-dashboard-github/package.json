@@ -1,0 +1,52 @@
+{
+  "name": "cyprus-wildfire-support-dashboard",
+  "version": "1.0.0",
+  "description": "Comprehensive dashboard showcasing companies and organizations providing support to Cyprus wildfire victims",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [
+    "cyprus",
+    "wildfire",
+    "support",
+    "dashboard",
+    "react",
+    "humanitarian",
+    "aid",
+    "organizations",
+    "companies",
+    "relief"
+  ],
+  "author": "Cyprus Wildfire Support Community",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YOUR_USERNAME/cyprus-wildfire-support-dashboard.git"
+  },
+  "bugs": {
+    "url": "https://github.com/YOUR_USERNAME/cyprus-wildfire-support-dashboard/issues"
+  },
+  "homepage": "https://github.com/YOUR_USERNAME/cyprus-wildfire-support-dashboard#readme",
+  "dependencies": {
+    "lucide-react": "^0.263.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.15",
+    "@types/react-dom": "^18.2.7",
+    "@vitejs/plugin-react": "^4.0.3",
+    "eslint": "^8.45.0",
+    "eslint-plugin-react": "^7.32.2",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "eslint-plugin-react-refresh": "^0.4.3",
+    "vite": "^4.4.5"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
+
